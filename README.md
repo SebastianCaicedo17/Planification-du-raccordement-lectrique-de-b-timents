@@ -11,3 +11,4 @@
 - Que représente chaque bâtiment? Il faut t il un ordre de priorité pour certaint bâtiments (Hopitaux, écoles...)?
 - Est ce normal que certains bâtiments ne continnent que 1 seule maison ?
 - Quel est le type d'infrastructure et quel est sont coût linéaire ?
+- Combien de maisons une infrastructures permet de raccorder ?
