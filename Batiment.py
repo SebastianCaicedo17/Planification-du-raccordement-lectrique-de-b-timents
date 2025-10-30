@@ -1,7 +1,8 @@
 class Batiment:
-    def __init__(self, id_building: str, list_infras: list):
+    def __init__(self, id_building: str, list_infras: list, nb_maisons: int):
         self.id_building = id_building,
-        self.list_infras = list_infras
+        self.list_infras = list_infras,
+        self.nb_maisons = nb_maisons
 
     def get_building_difficulty(self):
         total_difficulty = 0.0

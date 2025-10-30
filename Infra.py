@@ -1,9 +1,10 @@
 class Infra:
-    def __init__(self, infra_id: str, length: float, infra_type: str, nb_houses: int):
+    def __init__(self, infra_id: str, length: float, infra_type: str, nb_houses: int, type: str):
         self.infra_id = infra_id
         self.length = length
-        self.infra_type = infra_type
+        self.infra_type = infra_type # Si intact ou à réparer
         self.nb_houses = nb_houses
+        self.type = type # type d'infra terrestre, aérien ...
 
     def __str__(self):
         """Retourne une représentation lisible de l'objet."""
