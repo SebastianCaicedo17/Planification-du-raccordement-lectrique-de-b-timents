@@ -12,4 +12,5 @@
 - Est ce normal que certains bâtiments ne continnent que 1 seule maison ?
 - Quel est le type d'infrastructure et quel est sont coût linéaire ?
 - Combien de maisons une infrastructures permet de raccorder ?
-- Que réprésente le coût dans le fichier fourni ? Peut on paralléliser le travail ? 
+- Que réprésente le coût dans le fichier fourni, une équipe, une personne ... ? Peut on paralléliser le travail ?
+- Quel est le budget total du projet ?
